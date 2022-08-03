@@ -15,7 +15,7 @@
 - [简书](https://www.jianshu.com/u/a59c678b26df)
 - [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240)
 - [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多）
-- [NPM](https://www.npmjs.com/~xiaojt)
+- [segmentfault](https://segmentfault.com/u/xiaojt/articles)
 - [博客园](https://www.cnblogs.com/all-smile/)
 
 ## 我的代码托管平台
@@ -32,6 +32,7 @@
 - [论坛-Go](http://118.190.59.105:8088/)
 - [自己搭建的WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
 - [Docker Hub](https://hub.docker.com/u/xiaobluewhale)
+- [NPM](https://www.npmjs.com/~xiaojt)
 - [Jenkins](http://118.190.59.105:8082/)
 - [supervisor](https://www.i-xiao.space/supervisor/)
 

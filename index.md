@@ -14,9 +14,9 @@
 - [知乎](https://www.zhihu.com/people/xiaojt_95)
 - [简书](https://www.jianshu.com/u/a59c678b26df)
 - [CSDN](https://blog.csdn.net/heyYouU)
-- [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240)
-- [segmentfault](https://segmentfault.com/u/xiaojt/articles)
 - [博客园](https://www.cnblogs.com/all-smile/)
+- [segmentfault](https://segmentfault.com/u/xiaojt/articles)
+- [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240)
 
 ## 我的代码托管平台
 
@@ -34,5 +34,5 @@
 - [Docker Hub](https://hub.docker.com/u/xiaobluewhale)
 - [NPM](https://www.npmjs.com/~xiaojt)
 - [Jenkins](http://118.190.59.105:8082/)
-- [supervisor](https://www.i-xiao.space/supervisor/)
+<!-- - [supervisor](https://www.i-xiao.space/supervisor/) -->
 

@@ -5,6 +5,12 @@
 - 喜欢吃甜食
 - 后面加了`cc`主要目的是为了满足个平台昵称唯一性的要求。我记得那段时间在准备一个考试，索性就用`cc`当后缀了😁。
 
+## 我的博客
+
+_采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 创建的静态网页博客_
+
+- [甜点cc的博客](https://blog.i-xiao.space/blog/)
+
 ## 我的主页
 
 下面看一下各大互联网知识平台的个人主页信息
@@ -20,8 +26,8 @@
 
 ## 我的代码托管平台
 
-- [Gitee](https://gitee.com/hey-u)
 - [Github](https://github.com/all-smile)
+- [Gitee](https://gitee.com/hey-u)
 
 ## 我的网站、项目导航
 

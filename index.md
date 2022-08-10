@@ -7,7 +7,7 @@
 
 ## 我的博客
 
-_采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 创建的静态网页博客_
+采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 潮流技术，安装个性化主题，并结合个人域名创建的静态网页博客🎉👇
 
 - [甜点cc的博客](https://blog.i-xiao.space/blog/)
 
@@ -15,7 +15,7 @@ _采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 创建的静态网页博客_
 
 下面看一下各大互联网知识平台的个人主页信息
 
-- [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多）
+- [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多🎁）
 - [掘金](https://juejin.cn/user/852876755212814/posts)
 - [知乎](https://www.zhihu.com/people/xiaojt_95)
 - [简书](https://www.jianshu.com/u/a59c678b26df)

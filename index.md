@@ -9,7 +9,7 @@
 
 采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 潮流技术，安装个性化主题，并结合个人域名创建的静态网页博客🎉👇
 
-- [甜点cc的博客](https://blog.i-xiao.space/blog/)
+- [甜点cc的博客](https://home.i-xiao.space/blog/)
 
 ## 我的主页
 
@@ -31,7 +31,7 @@
 
 ## 我的网站、项目导航
 
-- [www.i-xiao.space](https://www.i-xiao.space/pc/compassNav)
+- [i-xiao.space](https://www.i-xiao.space/pc/compassNav)
 - [成绩管理系统](http://i-xiao.space:3000/)
 - [PC端网站](https://www.i-xiao.space/pc/main/home)
 - [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)

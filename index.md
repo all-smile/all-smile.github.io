@@ -27,7 +27,8 @@
 ## 我的微信公众号
 <!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
 <!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->
-- [看见另一种可能](https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg)
+<!-- https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg -->
+- [看见另一种可能](https://pic.imgdb.cn/item/63118f9f16f2c2beb1da309c.jpg)
 
 ## 我的代码托管平台
 

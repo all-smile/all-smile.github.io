@@ -25,8 +25,9 @@
 - [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240/articles)
 
 ## 我的微信公众号
-
-- [看见另一种可能](https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg)
+<!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
+<!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->
+- [看见另一种可能](https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg)
 
 ## 我的代码托管平台
 

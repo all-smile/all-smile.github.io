@@ -38,10 +38,14 @@
 - [Gitee](https://gitee.com/hey-u)
 
 ## 我的网站、项目导航
+<!-- https://www.i-xiao.space/pc/compassNav -->
+- [i-xiao.space](https://home.i-xiao.space/pc-web/#/compassNav)
 
-- [i-xiao.space](https://www.i-xiao.space/pc/compassNav)
 - [成绩管理系统](http://i-xiao.space:3000/)
-- [PC端网站](https://www.i-xiao.space/pc/main/home)
+
+<!-- https://www.i-xiao.space/pc/main/home -->
+- [PC端网站](https://home.i-xiao.space/pc-web/)
+
 - [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)
 - [论坛-Go](http://118.190.59.105:8088/)
 - [自己搭建的WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）

@@ -5,11 +5,11 @@
 - 喜欢吃甜食
 - 后面加了`cc`主要目的是为了满足一些平台对昵称唯一性的要求。
 
-大家也要注意膳食均衡呀，保持健康超级重要哦，自律方能自由，健康生活每一天，微笑面对每一天，嘻嘻`cc`😊
+大家也要注意膳食均衡呀，保持健康超级重要哦，自律方能自由，健康生活每一天，嘻嘻`cc`😊
 
 ## 我的博客
 
-采用 `Hexo` + `GitHub Pages` + `GitHub Actions` 潮流技术，安装个性化主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
+采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
 
 - [XiaoJt's Garden](https://home.i-xiao.space/blog/)
 
@@ -51,3 +51,8 @@
 - [Jenkins](http://118.190.59.105:8082/)
 <!-- - [supervisor](https://www.i-xiao.space/supervisor/) -->
 
+## 联系我
+
+[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_onepiece@163.com)
+[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juntaoxiaocc@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://raw.githubusercontent.com/all-smile/nav/v1.0.6/static/images/qrcode_wechat.jpg)

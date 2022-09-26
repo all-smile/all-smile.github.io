@@ -11,7 +11,8 @@
 
 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
 
-- [XiaoJt's Garden](https://home.i-xiao.space/blog/)
+- 主站地址：https://blog.i-xiao.space
+- 备用地址：https://m.i-xiao.space
 
 ## 我的主页
 
@@ -40,9 +41,9 @@
 ## 我的网站、项目导航
 <!-- https://www.i-xiao.space/pc/compassNav -->
 <!-- https://www.i-xiao.space/pc/main/home -->
-- [i-xiao.space](https://home.i-xiao.space/pc-web/#/compassNav)
+- [wiki](https://web.i-xiao.space/#/compassNav)
 - [成绩管理系统](http://i-xiao.space:3000/)
-- [PC端网站](https://home.i-xiao.space/pc-web/)
+- [PC端网站](https://web.i-xiao.space)
 - [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)
 - [论坛-Go](http://118.190.59.105:8088/)
 - [自己搭建的WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）

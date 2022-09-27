@@ -2,6 +2,9 @@
 
 行走互联网名号：[**甜点cc**](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc)
 
+[bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=xiaojt)
+[Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
+
 - 喜欢吃甜食
 - 后面加了`cc`主要目的是为了满足一些平台对昵称唯一性的要求。
 

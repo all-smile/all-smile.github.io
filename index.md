@@ -49,7 +49,7 @@
 - [PC端网站](https://web.i-xiao.space)
 - [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)
 - [论坛-Go](http://118.190.59.105:8088/)
-- [自己搭建的WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
+- [WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
 - [Docker Hub](https://hub.docker.com/u/xiaobluewhale)
 - [NPM](https://www.npmjs.com/~xiaojt)
 - [Jenkins](http://118.190.59.105:8082/)
@@ -59,4 +59,4 @@
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:find_onepiece@163.com)](mailto:find_onepiece@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:juntaoxiaocc@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/WeChat.jpg)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](https://pic1.imgdb.cn/item/636a10f916f2c2beb1f29081.jpg)

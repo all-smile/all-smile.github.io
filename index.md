@@ -21,12 +21,12 @@
 
 下面看一下各大互联网知识平台的个人主页信息
 
-- [语雀](https://www.yuque.com/allblue-byynd)（个人平常记录使用较多🎁）
+- [语雀](https://www.yuque.com/xiaojt)（个人平常记录使用较多🎁）
 - [掘金](https://juejin.cn/user/852876755212814/posts)
 - [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
-- [简书](https://www.jianshu.com/u/a59c678b26df)
 - [CSDN](https://blog.csdn.net/heyYouU?type=blog)
 - [博客园](https://www.cnblogs.com/all-smile/)
+- [简书](https://www.jianshu.com/u/a59c678b26df)
 - [segmentfault](https://segmentfault.com/u/xiaojt/articles)
 - [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240/articles)
 

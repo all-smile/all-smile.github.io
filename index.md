@@ -1,6 +1,6 @@
 ## 我的名号
 
-行走互联网名号：[**甜点cc**](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc)
+你好，我是肖俊涛，行走互联网名号：[**甜点cc**](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc)
 
 [bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 [Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
@@ -29,7 +29,9 @@
 - [简书](https://www.jianshu.com/u/a59c678b26df)
 - [segmentfault](https://segmentfault.com/u/xiaojt/articles)
 - [腾讯开发者社区](https://cloud.tencent.com/developer/user/8986240/articles)
-
+- [阿里云开发者社区](https://developer.aliyun.com/profile/expert/7h4gnxxfricga)
+- [InfoQ-极客邦](https://www.infoq.cn/profile/96E83A61F8EC0F/publish)
+- ...
 ## 我的微信公众号
 <!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
 <!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->

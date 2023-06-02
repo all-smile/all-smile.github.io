@@ -49,7 +49,7 @@
 - [wiki](https://web.i-xiao.space/#/compassNav)
 - [成绩管理系统](http://i-xiao.space:3000/)
 - [PC端网站](https://web.i-xiao.space)
-- [H5网站框架](https://www.i-xiao.space/h5/main/checkFace)
+- [H5网站框架](https://home.i-xiao.space/mobile-h5/)
 - [论坛-Go](http://118.190.59.105:8088/)
 - [WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
 - [Docker Hub](https://hub.docker.com/u/xiaobluewhale)

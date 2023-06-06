@@ -46,7 +46,7 @@
 ## 我的网站、项目导航
 <!-- https://www.i-xiao.space/pc/compassNav -->
 <!-- https://www.i-xiao.space/pc/main/home -->
-- [wiki](https://web.i-xiao.space/#/compassNav)
+- [wiki](https://web.i-xiao.space/#/wiki)
 - [成绩管理系统](http://i-xiao.space:3000/)
 - [PC端网站](https://web.i-xiao.space)
 - [H5网站框架](https://home.i-xiao.space/mobile-h5/)

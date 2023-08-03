@@ -5,11 +5,6 @@
 [bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 [Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 
-- 喜欢吃甜食
-- 后面加了`cc`主要目的是为了满足一些平台对昵称唯一性的要求。
-
-大家也要注意膳食均衡呀，保持健康超级重要哦，自律方能自由，健康生活每一天，嘻嘻`cc`😊
-
 ## 我的博客
 
 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉

@@ -7,10 +7,14 @@
 
 ## 我的博客
 
-采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
+1. 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
 
 - 主站地址：[https://blog.i-xiao.space](https://blog.i-xiao.space)
 - 备用地址：[https://m.i-xiao.space](https://m.i-xiao.space)
+
+2. vuepress博客
+
+- 站点： [https://home.i-xiao.space/vuepress-star/](https://home.i-xiao.space/vuepress-star/)
 
 ## 我的主页
 

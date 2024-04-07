@@ -1,11 +1,11 @@
-## 我的名号
+## 名号
 
 你好，我是肖俊涛，行走互联网名号：[**甜点cc**](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc)
 
 [bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 [Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 
-## 我的博客
+## 博客
 
 1. 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
 
@@ -16,12 +16,12 @@
 
 - 站点： [https://home.i-xiao.space/vuepress-star/](https://home.i-xiao.space/vuepress-star/)
 
-## 我的主页
+## 社区平台
 
 下面看一下各大互联网知识平台的个人主页信息
 
-- [语雀](https://www.yuque.com/xiaojt)（个人平常记录使用较多🎁）
-- [掘金](https://juejin.cn/user/852876755212814/posts)
+- [掘金](https://juejin.cn/user/852876755212814/posts) （首发）
+- [语雀](https://www.yuque.com/xiaojt)
 - [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
 - [CSDN](https://blog.csdn.net/heyYouU?type=blog)
 - [博客园](https://www.cnblogs.com/all-smile/)
@@ -31,18 +31,21 @@
 - [阿里云开发者社区](https://developer.aliyun.com/profile/expert/7h4gnxxfricga)
 - [InfoQ-极客邦](https://www.infoq.cn/profile/96E83A61F8EC0F/publish)
 - ...
-## 我的微信公众号
+
+## 微信公众号
+
 <!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
 <!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->
 <!-- https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg -->
 - [看见另一种可能](https://pic.imgdb.cn/item/63118f9f16f2c2beb1da309c.jpg)
 
-## 我的代码托管平台
+## 代码托管平台
 
 - [Github](https://github.com/all-smile)
 - [Gitee](https://gitee.com/hey-u)
 
 ## 我的网站、项目导航
+
 <!-- https://www.i-xiao.space/pc/compassNav -->
 <!-- https://www.i-xiao.space/pc/main/home -->
 - [wiki](https://web.i-xiao.space/#/wiki)

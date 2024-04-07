@@ -20,7 +20,7 @@
 
 下面看一下各大互联网知识平台的个人主页信息
 
-- [掘金](https://juejin.cn/user/852876755212814/posts) （首发）
+- [掘金](https://juejin.cn/user/852876755212814/columns) （首发）
 - [语雀](https://www.yuque.com/xiaojt)
 - [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
 - [CSDN](https://blog.csdn.net/heyYouU?type=blog)

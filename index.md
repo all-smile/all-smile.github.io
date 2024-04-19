@@ -5,9 +5,9 @@
 [bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 [Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 
-## 博客
+## 个人博客
 
-1. 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天呀😉
+1. 采用 `Hexo` + `GitHub Pages` + `GitHub Actions/Netlify/Vercel` 等技术，安装并修改主题，集成一些小功能，并结合个人域名创建的一个简洁的有内容的静态网页博客，欢迎大家来我的博客聊天😉
 
 - 主站地址：[https://blog.i-xiao.space](https://blog.i-xiao.space)
 - 备用地址：[https://m.i-xiao.space](https://m.i-xiao.space)
@@ -20,7 +20,7 @@
 
 下面看一下各大互联网知识平台的个人主页信息
 
-- [掘金](https://juejin.cn/user/852876755212814/columns) （首发）
+- [掘金](https://juejin.cn/user/852876755212814/columns) （**掘金优秀创作者**，首发）
 - [语雀](https://www.yuque.com/xiaojt)
 - [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
 - [CSDN](https://blog.csdn.net/heyYouU?type=blog)

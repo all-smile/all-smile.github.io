@@ -39,11 +39,6 @@
 <!-- https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg -->
 - [看见另一种可能](https://pic.imgdb.cn/item/63118f9f16f2c2beb1da309c.jpg)
 
-## 代码托管平台
-
-- [Github](https://github.com/all-smile)
-- [Gitee](https://gitee.com/hey-u)
-
 ## 我的网站、项目导航
 
 <!-- https://www.i-xiao.space/pc/compassNav -->
@@ -58,6 +53,11 @@
 - [NPM](https://www.npmjs.com/~xiaojt)
 - [Jenkins](http://118.190.59.105:8082/)
 <!-- - [supervisor](https://www.i-xiao.space/supervisor/) -->
+
+## 代码托管平台
+
+- [Github](https://github.com/all-smile)
+- [Gitee](https://gitee.com/hey-u)
 
 ## 联系我
 

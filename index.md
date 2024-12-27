@@ -1,6 +1,6 @@
 ## 名号
 
-你好，我是肖俊涛，行走互联网名号：
+你好，我姓肖，行走互联网常用名号：
 - [**甜点cc**](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc)
 - [**看见另一种可能**](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 

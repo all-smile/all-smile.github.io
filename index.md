@@ -1,9 +1,22 @@
 ## 名号
 
-你好，我是肖俊涛，行走互联网名号：[**甜点cc**](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc)
+你好，我是肖俊涛，行走互联网名号：
+- [**甜点cc**](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc)
+- [**看见另一种可能**](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 
+<!--
 [bing1🔍](https://cn.bing.com/search?q=%E7%94%9C%E7%82%B9cc) [bing2🔍](https://cn.bing.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 [Chrome1🔍](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc) [Chrome2🔍](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
+-->
+
+## 微信公众号
+
+目前主要更新微信公众号，欢迎查看👏👏
+
+<!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
+<!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->
+<!-- https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg -->
+- [看见另一种可能](https://pic.imgdb.cn/item/63118f9f16f2c2beb1da309c.jpg)
 
 ## 个人博客
 
@@ -18,9 +31,7 @@
 
 ## 社区平台
 
-下面看一下各大互联网知识平台的个人主页信息
-
-- [掘金](https://juejin.cn/user/852876755212814/columns) （**掘金优秀创作者**，首发）
+- [掘金](https://juejin.cn/user/852876755212814/columns) （**掘金优秀创作者**）
 - [语雀](https://www.yuque.com/xiaojt)
 - [知乎](https://www.zhihu.com/people/xiaojt_95/posts)
 - [CSDN](https://blog.csdn.net/heyYouU?type=blog)
@@ -31,13 +42,6 @@
 - [阿里云开发者社区](https://developer.aliyun.com/profile/expert/7h4gnxxfricga)
 - [InfoQ-极客邦](https://www.infoq.cn/profile/96E83A61F8EC0F/publish)
 - ...
-
-## 微信公众号
-
-<!-- https://images.cnblogs.com/cnblogs_com/blogs/342390/galleries/2204437/o_220901105854_qrcode_wechat02.jpg -->
-<!-- https://cdn.jsdelivr.net/gh/all-smile/nav@1.0.6/static/images/qrcode_wechat02.jpg -->
-<!-- https://gitee.com/hey-u/nav/raw/master/static/images/qrcode_wechat02.jpg -->
-- [看见另一种可能](https://pic.imgdb.cn/item/63118f9f16f2c2beb1da309c.jpg)
 
 ## 我的网站、项目导航
 

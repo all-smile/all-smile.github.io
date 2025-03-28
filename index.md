@@ -1,6 +1,6 @@
-## 名号
+## 名称
 
-你好，我姓肖，行走互联网常用名号：
+你好，我姓肖，互联网常用名称：
 - [**甜点cc**](https://www.google.com/search?q=%E7%94%9C%E7%82%B9cc)
 - [**看见另一种可能**](https://www.google.com/search?q=XiaoJt+-+%E7%9C%8B%E8%A7%81%E5%8F%A6%E4%B8%80%E7%A7%8D%E5%8F%AF%E8%83%BD)
 
@@ -52,7 +52,7 @@
 - [PC端网站](https://web.i-xiao.space)
 - [H5网站框架](https://home.i-xiao.space/mobile-h5/)
 - [论坛-Go](http://118.190.59.105:8088/)
-- [WordPress](http://118.190.59.105:8000/)（需要氪金才行，不使了）
+- [WordPress](http://118.190.59.105:8000/)
 - [Docker Hub](https://hub.docker.com/u/xiaobluewhale)
 - [NPM](https://www.npmjs.com/~xiaojt)
 - [Jenkins](http://118.190.59.105:8082/)
